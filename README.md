@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo World! I'm Reyhan Nandita Al Zahra 👋
 
 <!--
 **alzahrareyhan/alzahrareyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Happy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW95cmUzMDZxbGZvY2s0YnJnZDNydW82NzJ1bTA3NWl4ZnVxdXlmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGqP4DYXe4zVJbCY5N/giphy.gif)
