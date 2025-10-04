@@ -5,9 +5,12 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alzahrareyhan&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alzahrareyhan&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alzahrareyhan&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alzahrareyhan&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=alzahrareyhan&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzahrareyhan&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alzahrareyhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
