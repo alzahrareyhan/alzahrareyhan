@@ -23,8 +23,8 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 
 ####
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" height="150" src="code.gif"  />
 ###
 
 <div align="left">
@@ -72,7 +72,6 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 
 
 ###
-
 <img src="https://raw.githubusercontent.com/alzahrareyhan/alzahrareyhan/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -80,3 +79,5 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 
 [![](https://visitcount.itsvg.in/api?id=alzahrareyhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<img align="" height="150" src="code.gif"  />
