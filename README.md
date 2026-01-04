@@ -4,10 +4,11 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 
 Here are some fun facts about me:
 
-⭐ Grew up as a Python user and currently do it for a living
-⭐ Great deals of experience with SQL and BigQuery
-📊 Visualize data with Python libraries, Looker Studio, Power BI, or just simply build dashboards in Google Sheets
-🐍 Speak Python mainly for teaching, occasionally for data analytics and machine learning projects
+* ⭐ Grew up as a Python user and currently do it for a living
+* ⭐ Great deals of experience with SQL and BigQuery
+* 📊 Visualize data with Python libraries, Looker Studio, Power BI, or just simply build dashboards in Google Sheets
+* 🐍 Speak Python mainly for teaching, occasionally for data analytics and machine learning projects
+
 Most of my repos here are part of documenting my lifelong journey of learning. Enjoy and feel free to reach out to me.
 ###
 
