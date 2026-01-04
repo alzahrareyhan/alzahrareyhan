@@ -78,6 +78,3 @@ Hi 👋! My name is Reyhan Nandita Al Zahra
 
 
 [![](https://visitcount.itsvg.in/api?id=alzahrareyhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<img align="" height="150" src="code.gif"  />
